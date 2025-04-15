@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio! I specialize in transforming complex bus
 
 ## 🧰 Tools & Technologies
 - **Visualization & BI:** Power BI (DAX, Power Query, Data Modeling), Excel
-- **Data Analysis & Processing:** SQL (PostgreSQL), Python (Pandas, NumPy, Matplotlib)
+- **Data Analysis & Processing:** SQL (MySQL), Python (Pandas, NumPy, Matplotlib)
 - **ETL & Automation:** Alteryx, Power Query
 - **Cloud Platform:** Microsoft Azure
 - **Other:** Git, Microsoft Office Suite, Agile methodology awareness
@@ -46,10 +46,10 @@ Welcome to my data analytics portfolio! I specialize in transforming complex bus
 ---
 
 ## 📜 Certifications
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- Alteryx Designer Core Certified
-- Associate Data Analyst – DataCamp
-- Alex Freberg’s Data Analytics Bootcamp
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300) [Certification Link](https://learn.microsoft.com/en-us/users/karthiksugavanam-9520/credentials/ddb2d0cffd11bbbd?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- Alteryx Designer Core Certified [Certification Link](https://www.credly.com/badges/5b17ee1e-5106-4f7c-946a-db08c2b57b51/linked_in_profile)
+- Associate Data Analyst – DataCamp [Certification Link](https://www.datacamp.com/certificate/DAA0014647406556)
+- Alex Freberg’s Data Analytics Bootcamp [Certification Link](https://drive.google.com/file/d/1Q19q0rYQYZC1Qe8wl_sbiSQHbRu-rjiV/view)
 
 ---
 
