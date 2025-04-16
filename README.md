@@ -1,4 +1,4 @@
-![Banner](https://github.com/k-for-karthik/k-for-karthik/blob/7a7a6475994259974b9a029bb5bda6d1ffbf37d5/banner.png)
+![Banner](https://github.com/k-for-karthik/k-for-karthik/blob/c4531146d5b3e181669c53ac2c51df0496816d56/Banner.png)
 # 👋 Hi, I'm Karthik!
 
 🎯 **Professional Data Analyst | Insight-Driven Problem Solver | Business Intelligence Enthusiast**
