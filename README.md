@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Karthik!<br>
-![Banner](https://github.com/k-for-karthik/k-for-karthik/blob/c4531146d5b3e181669c53ac2c51df0496816d56/Banner.png)
+
 🎯 **Professional Data Analyst | Insight-Driven Problem Solver | Business Intelligence Enthusiast**
 
 Welcome to my data analytics portfolio! I specialize in transforming complex business challenges into actionable insights. My work bridges data and decision-making—whether it's improving customer retention, optimizing supply chains, or increasing operational efficiency. Every project here reflects a real-world problem solved through structured analysis, clear communication, and measurable impact.
@@ -54,8 +54,8 @@ Welcome to my data analytics portfolio! I specialize in transforming complex bus
 ---
 
 ## 🎓 Education
-- **MBA in Marketing Management** – University of Madras (IDE), CGPA: 7.5 (2023)
-- **B.Com in Accounting and Finance** – University of Madras, CGPA: 8.4 (2021)
+- **MBA in Marketing Management** – Institute of Distance Education, University of Madras
+- **B.Com in Accounting and Finance** – Guru Nanak College, University of Madras
 
 ---
 
